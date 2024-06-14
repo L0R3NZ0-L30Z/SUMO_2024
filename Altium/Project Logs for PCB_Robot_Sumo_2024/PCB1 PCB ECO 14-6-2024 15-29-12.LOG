@@ -1,0 +1,158 @@
+Removed Pin From Net: NetName=I2C_1 Pin=J10-1
+Removed Pin From Net: NetName=L.S.29 Pin=J10-2
+Removed Pin From Net: NetName=L.S.28 Pin=J10-3
+Removed Pin From Net: NetName=GND Pin=J10-4
+Removed Pin From Net: NetName=I2C_2 Pin=J11-1
+Removed Pin From Net: NetName=L.S.29 Pin=J11-2
+Removed Pin From Net: NetName=L.S.28 Pin=J11-3
+Removed Pin From Net: NetName=GND Pin=J11-4
+Removed Pin From Net: NetName=I2C_3 Pin=J12-1
+Removed Pin From Net: NetName=L.S.29 Pin=J12-2
+Removed Pin From Net: NetName=L.S.28 Pin=J12-3
+Removed Pin From Net: NetName=GND Pin=J12-4
+Removed Pin From Net: NetName=+5 Pin=P7-1
+Removed Pin From Net: NetName=L.S.RXD0 Pin=P7-2
+Removed Pin From Net: NetName=L.S.TXD0 Pin=P7-3
+Removed Pin From Net: NetName=GND Pin=P7-4
+Removed Pin From Net: NetName=+5 Pin=P8-1
+Removed Pin From Net: NetName=L.S.RXD0 Pin=P8-2
+Removed Pin From Net: NetName=L.S.TXD0 Pin=P8-3
+Removed Pin From Net: NetName=GND Pin=P8-4
+Removed Member From Class: ClassName=I2C Member=J10
+Removed Member From Class: ClassName=I2C Member=J11
+Removed Member From Class: ClassName=I2C Member=J12
+Removed Member From Class: ClassName=UART Member=P7
+Removed Member From Class: ClassName=UART Member=P8
+Added Component: Designator=J10(FP-B4B-ZR_LF_SN-MFG)
+Add component (AddParameter): Name = "Body Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.094inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "30mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Beige"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "500MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Panel Thickness"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ZH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=J11(FP-B4B-ZR_LF_SN-MFG)
+Add component (AddParameter): Name = "Body Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.094inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "30mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Beige"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "500MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Panel Thickness"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ZH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=P9(JST-B4B-PH-K-S_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B4B-PH-K-S%28LF%29%28SN%29-JST-datasheet-10558886.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=P10(JST-B4B-PH-K-S_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B4B-PH-K-S%28LF%29%28SN%29-JST-datasheet-10558886.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Component: Designator=P11(JST-B4B-PH-K-S_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B4B-PH-K-S%28LF%29%28SN%29-JST-datasheet-10558886.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=L.S.TXD0 Pin=J10-2
+Added Pin To Net: NetName=L.S.RXD0 Pin=J10-3
+Added Pin To Net: NetName=+5 Pin=J10-4
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=L.S.TXD0 Pin=J11-2
+Added Pin To Net: NetName=L.S.RXD0 Pin=J11-3
+Added Pin To Net: NetName=+5 Pin=J11-4
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=L.S.28 Pin=P9-2
+Added Pin To Net: NetName=L.S.29 Pin=P9-3
+Added Pin To Net: NetName=I2C_3 Pin=P9-4
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=L.S.28 Pin=P10-2
+Added Pin To Net: NetName=L.S.29 Pin=P10-3
+Added Pin To Net: NetName=I2C_1 Pin=P10-4
+Added Pin To Net: NetName=GND Pin=P11-1
+Added Pin To Net: NetName=L.S.28 Pin=P11-2
+Added Pin To Net: NetName=L.S.29 Pin=P11-3
+Added Pin To Net: NetName=I2C_2 Pin=P11-4
+Added Member To Class: ClassName=UART Member=Component J10 B4B-ZR(LF)(SN)
+Added Member To Class: ClassName=UART Member=Component J11 B4B-ZR(LF)(SN)
+Added Member To Class: ClassName=I2C Member=Component P9 B4B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=I2C Member=Component P10 B4B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=I2C Member=Component P11 B4B-PH-K-S(LF)(SN)
