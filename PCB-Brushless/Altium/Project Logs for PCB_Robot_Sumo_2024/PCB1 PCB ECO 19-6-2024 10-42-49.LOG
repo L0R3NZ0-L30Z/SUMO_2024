@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=J11-1
+Removed Pin From Net: NetName=L.S.TXD0 Pin=J11-2
+Removed Pin From Net: NetName=L.S.RXD0 Pin=J11-3
+Removed Pin From Net: NetName=+5 Pin=J11-4
+Added Member To Class: ClassName=UART Member=Component J10 B4B-ZR(LF)(SN)
