@@ -1,0 +1,40 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Robot_Sumo_2024.PrjPcb]
+   Generated File[Brushed_PCB.GTO]
+   Generated File[Brushed_PCB.GTP]
+   Generated File[Brushed_PCB.GTS]
+   Generated File[Brushed_PCB.GTL]
+   Generated File[Brushed_PCB.GBL]
+   Generated File[Brushed_PCB.GBS]
+   Generated File[Brushed_PCB.GBP]
+   Generated File[Brushed_PCB.GBO]
+   Generated File[Brushed_PCB.GM1]
+   Generated File[Brushed_PCB.GM2]
+   Generated File[Brushed_PCB.GM3]
+   Generated File[Brushed_PCB.GM4]
+   Generated File[Brushed_PCB.GM5]
+   Generated File[Brushed_PCB.GM6]
+   Generated File[Brushed_PCB.GM7]
+   Generated File[Brushed_PCB.GM11]
+   Generated File[Brushed_PCB.GM12]
+   Generated File[Brushed_PCB.GM13]
+   Generated File[Brushed_PCB.GM15]
+   Generated File[Brushed_PCB.GM16]
+   Generated File[Brushed_PCB.GM20]
+   Generated File[Brushed_PCB.GM21]
+   Generated File[Brushed_PCB.GM23]
+   Generated File[Brushed_PCB.GM24]
+   Generated File[Brushed_PCB.GKO]
+   Generated File[Brushed_PCB.GPT]
+   Generated File[Brushed_PCB.GPB]
+   Generated File[Brushed_PCB.GD1]
+   Generated File[Brushed_PCB.GG1]
+   Generated File[Brushed_PCB.EXTREP]
+   Generated File[Brushed_PCB.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 10:00:08 On 27/6/2024
