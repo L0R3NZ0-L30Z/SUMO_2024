@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+5 Pin=U8-1
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=3.3V Pin=U8-3
+Removed Member From Class: ClassName=Hoja_principal_Sumo_2024 Member=U8
+Added Component: Designator=VR1(TO-220AB)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.54 mm Pitch, 15.1 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D2PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=3.3V Pin=VR1-2
+Added Pin To Net: NetName=+5 Pin=VR1-3
+Added Member To Class: ClassName=Hoja_principal_Sumo_2024 Member=Component VR1 Volt Reg
